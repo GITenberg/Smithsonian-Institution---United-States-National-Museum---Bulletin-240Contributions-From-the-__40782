@@ -1,0 +1,44 @@
+_repo: Smithsonian-Institution---United-States-National-Museum---Bulletin-240Contributions-From-the-__40782
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40782-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Museum of History and Technology (U.S.)
+    aliases:
+    - United States. Museum of History and Technology
+    - Washington (D.C.). Museum of History and Technology
+    - Smithsonian Institution. Museum of History and Technology
+    - United States National Museum. Museum of History and Technology
+    gutenberg_agent_id: '46027'
+    url: http://www.gutenberg.org/2009/agents/46027
+description: ''
+gutenberg_issued: '2012-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40782'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Science -- History'
+- !lcc 'T'
+- !lcsh 'Technology -- History'
+tableOfContents: 'The 1893 Duryea automobile in the Museum of History and Technology,
+  by Don H. Berkebile -- The Borghesi astronomical clock in the Museum of History
+  and Technology, by Silvio A. Bedini -- The engineering contributions of Wendel Bollman,
+  by Robert M. Vogel -- Screw-thread cutting by the master-screw method since 1480,
+  by Edwin A. Battison -- The earliest electromagnetic instruments, by Robert A. Chipman
+  -- Fulton''s "steam battery" blockship and catamaran, by Howard I. Chapelle -- History
+  of phosphorus, by Eduard Farber -- Tunnel engineering, a museum treatment, by Robert
+  M. Vogel -- The "Pioneer": light passenger locomotive of 1851 in the Museum of History
+  and Technology, by John H. White -- History of the Division of Medical Sciences,
+  by Sami Hamarneh -- Development of gravity pendulums in the 19th century, by Victor
+  F. Lenzen and Robert P. Multhauf.'
+title: "Smithsonian Institution - United States National Museum - Bulletin 240\r\n\
+  Contributions From the Museum of History and Technology\r\nPapers 34-44 on Science\
+  \ and Technology"
+url: http://www.gutenberg.org/ebooks/40782
